@@ -47,6 +47,6 @@ SELECT * FROM gifts;
 
 **Output:**
 
-![](./assets/example-query.png)
+![](./assets/exase\echo mple-query.png)
 
 Remember to press `\q` to quit out of `psql`
